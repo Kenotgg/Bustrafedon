@@ -11,6 +11,7 @@ namespace Bustrafedon
 	{
 		static void Main(string[] args)
 		{
+			//GitHub
 			///Нужно такое понятие как строка, пока попробую массивом строк бустрафайдить одну строку из массива на вход
 			//Получение текста от пользователя
 			string[] textStrings = new string[4];
