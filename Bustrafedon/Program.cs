@@ -164,7 +164,6 @@ namespace Bustrafedon
 						if (text[i] != null && text[i] != " ")
 						{
 							//Console.Write(text[i]);
-
 							streamWriter.Write(text[i]);
 						}
 
